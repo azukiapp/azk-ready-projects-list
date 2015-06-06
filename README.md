@@ -8,6 +8,13 @@ It should serve as a reference to help people adding new systems to their Azkfil
 
 [azkfile-init-examples](https://github.com/azukiapp/azkfile-init-examples/)
 
+## Elixir
+
+### [hello_phoenix](https://github.com/azukiapp/hellow_phoenix) 
+**Other systems:** Postgres
+
+An [Phoenix](http://www.phoenixframework.org/) (Elixir) demo application.
+
 ## Node.js
 
 ### [azkdemo](https://github.com/azukiapp/azkdemo) 
